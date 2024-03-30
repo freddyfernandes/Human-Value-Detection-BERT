@@ -37,8 +37,3 @@ This project demonstrates the effectiveness of BERT-based classifiers for the ta
 
 - [Hugging Face Transformers](https://huggingface.co/)
 - [BERT, RoBERTa, DistilBERT, XLNet - Which one to use?](https://towardsdatascience.com/bert-roberta-distilbert-xlnet-which-one-to-use-3d5ab82ba5f8)
-
-
-```
-
-This README provides a concise overview of the project, including its objectives, setup instructions, dataset information, details on model training and evaluation, results, conclusion, and contact information for further inquiries.
